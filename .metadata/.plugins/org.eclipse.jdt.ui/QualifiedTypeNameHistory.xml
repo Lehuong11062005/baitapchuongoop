@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="bai2.DiaChi"/>
+    <fullyQualifiedTypeName name="bai4.Nguoi"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="bai1.CircleCollection"/>
+    <fullyQualifiedTypeName name="java.beans.BeanDescriptor"/>
+    <fullyQualifiedTypeName name="bai1.Circle"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="bai2.Exchange"/>
+    <fullyQualifiedTypeName name="bai2.Rate"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="bai1.Thoigian"/>
+    <fullyQualifiedTypeName name="bai2.InvalidDateException"/>
+    <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
+    <fullyQualifiedTypeName name="bai3.StringTooLongException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
+    <fullyQualifiedTypeName name="bai5.OutOfRangeException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>

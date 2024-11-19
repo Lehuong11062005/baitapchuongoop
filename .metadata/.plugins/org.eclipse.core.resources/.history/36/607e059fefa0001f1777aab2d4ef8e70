@@ -1,0 +1,7 @@
+package bai7;
+
+public interface GeometricObject {
+	protected abstract double getPerimeter();
+	protected abstract double getArea();
+
+}

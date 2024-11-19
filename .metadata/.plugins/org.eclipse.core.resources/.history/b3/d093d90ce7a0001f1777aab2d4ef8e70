@@ -1,0 +1,15 @@
+package bai4;
+
+public class Benhnhan extends Nguoi {
+	private String tuoisu;
+	private String  chuandoan;
+	private BenhVien benhvien;
+	public Benhnhan(String tuoisu, String chuandoan, BenhVien benhvien) {
+		super();
+		this.tuoisu = tuoisu;
+		this.chuandoan = chuandoan;
+		this.benhvien = benhvien;
+	}
+	
+	
+}

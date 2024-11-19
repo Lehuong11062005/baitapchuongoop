@@ -1,0 +1,9 @@
+package bai7;
+
+public class Test {
+	public static void main(String[]args) {
+		ResizableCircle rc=new ResizableCircle();
+		System.out.println(rc.getArea()+rc.getPerimeter());
+	}
+
+}

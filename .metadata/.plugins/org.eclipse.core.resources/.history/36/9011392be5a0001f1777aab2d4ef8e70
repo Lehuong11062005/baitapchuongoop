@@ -1,0 +1,12 @@
+package bai3;
+import bai2.DiaChi;
+public class Nhanvien {
+	private  String name;
+	private DiaChi diachi=new DiaChi();
+	private String dob;
+	private char gender;
+	
+	
+	
+
+}
